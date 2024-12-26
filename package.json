@@ -1,0 +1,17 @@
+{
+  "name": "Holiday card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:scss": "sass scss/snowglobe.scss css/snowglobe.css --style compressed",
+    "watch:scss": "sass --watch scss/snowglobe.scss:css/snowglobe.css"
+  },
+  "keywords": [],
+  "author": "aaronjan98@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "compass-mixins": "^0.12.12",
+    "sass": "^1.83.0"
+  }
+}
