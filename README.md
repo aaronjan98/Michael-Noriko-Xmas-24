@@ -1,6 +1,6 @@
 # README
 
-This is a holiday card for the McDonald's Crew. Can be found [here](https://mcdonald-guys-holiday-2024.netlify.app)
+This is a holiday card for Michael and Noriko. Can be found [here](https://michael-noriko-xmas-24.netlify.app/)
 
 ## Open repo locally
 
