@@ -124,6 +124,7 @@ p.signed {
   margin-top: 0;
   font-family: "Dancing Script", sans-serif;
   font-size: 1.5em;
+  line-height: 1;
 }
 
 /* Media Query to Scale the Card on Larger Screens */
